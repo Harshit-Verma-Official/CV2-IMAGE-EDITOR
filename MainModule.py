@@ -5,7 +5,7 @@ from Module2 import user_interface as UI
 def app():
     root = Tk()
     root.geometry("600x430+300+100")
-    root.title("Image Blur")
+    root.title("Image Editor")
     root.resizable(False, False)
 
     frame = UI(root)

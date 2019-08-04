@@ -34,7 +34,7 @@ class user_interface(Frame):
 
         self.counter = 0
 
-        self.heading = Label(self.root, text="Image Blur", bg="#333945", fg="white", font="Courier 20 bold")
+        self.heading = Label(self.root, text="CV2 Image Editor", bg="#333945", fg="white", font="Courier 20 bold")
         self.heading.place(x=0, y=10, width=600, height=50)
 
         self.word_enter = Label(self.root, text="Select Image             : ", fg="black", font="Times 13 bold")

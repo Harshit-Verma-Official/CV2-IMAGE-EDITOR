@@ -108,7 +108,7 @@ class user_interface(Frame):
         try:
             file = self.root.filename
             cv2.imwrite(self.root.dir + "\\test.jpg", self.output10)
-            messagebox.Dialog.show("")
+            messagebox.showinfo("Output","Image Saved !")
         except:
             messagebox.showerror("Something Went Wrong !", "Select Output Path")
 

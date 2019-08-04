@@ -1,5 +1,5 @@
 # CV2-IMAGE-EDITOR
-  CV2 Photo Editor in Python 3 with Tkinter UI.
+  - CV2 Photo Editor in Python 3 with Tkinter UI.
  
 # Features
   - Image Blur (Separated) :
@@ -20,7 +20,7 @@
 
 # Credits
   
-  Created by Harshit Verma.
+  - Created by Harshit Verma.
 
 
 # Screenshots
